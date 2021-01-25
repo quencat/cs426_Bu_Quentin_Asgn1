@@ -1,5 +1,11 @@
 # cs426_Bu_Quentin_Asgn1
-Click and shoot game
+This is a click and shoot game inspired by my concept of "Home". <br/>
+The board is divided into four seasons. <br/>
+In spring, there are sunflowers, orchids, and you can play football with foxes.<br/>
+In summer, there is rain, arcade games, and you can throw onions to collect retro game food items.<br/>
+In fall, you can bike through maple trees and throw leaves at the goldening bushes.<br/>
+In winter, you can throw snowballs at the snowmans.<br/>
+The player would walk through the environment, and aim and shoot all the target items to win.<br/>
 
 
 
