@@ -7,8 +7,13 @@ In fall, you can bike through maple trees and throw leaves at the goldening bush
 In winter, you can throw snowballs at the snowmans.<br/>
 The player would walk through the environment, and aim and shoot all the target items to win.<br/>
 
-
-
+<br/>
+Video Demo:
+<br/>
+Classmate comments:<br/>
+1.<br/>
+2.<br/>
+<br/>
 External Image credits:<br/>
 Fallen Leaves: https://www.vecteezy.com/photo/1264293-brown-fallen-leaves<br/>
 Grass: https://unsplash.com/photos/QSIq9ncQkzY<br/>
