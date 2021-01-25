@@ -8,7 +8,7 @@ In winter, you can throw snowballs at the snowmans.<br/>
 The player would walk through the environment, and aim and shoot all the target items to win.<br/>
 
 <br/>
-Video Demo:
+Video Demo: https://youtu.be/O1qe6Gatn4A
 <br/>
 Classmate comments:<br/>
 1.<br/>
