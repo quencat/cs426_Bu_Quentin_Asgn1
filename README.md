@@ -11,7 +11,7 @@ The player would walk through the environment, and aim and shoot all the target 
 Video Demo: https://youtu.be/O1qe6Gatn4A
 <br/>
 Classmate comments:<br/>
-1.<br/>
+1.https://piazza.com/class/kjop242qay82pg?cid=49_f3<br/>
 2.<br/>
 <br/>
 External Image credits:<br/>
